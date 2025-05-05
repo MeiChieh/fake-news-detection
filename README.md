@@ -84,7 +84,7 @@ the trade-offs of these approaches and recommend the most suitable model for thi
 
 4. Error analysis with Lime
 
-## �� Project Structure
+## 📂 Project Structure
 
 ```
 ├── 1_cleaning.ipynb      # Data cleaning and preprocessing
