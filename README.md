@@ -32,9 +32,9 @@ the trade-offs of these approaches and recommend the most suitable model for thi
 
 ## 📑 Analysis Notebooks
 
-- [Cleaning 📚](https://github.com/TuringCollegeSubmissions/mchien-DL.4.1/blob/master/1_cleaning.ipynb)
-- [EDA 📚](https://github.com/TuringCollegeSubmissions/mchien-DL.4.1/blob/master/2_eda.ipynb)
-- [Modeling 📚](https://github.com/TuringCollegeSubmissions/mchien-DL.4.1/blob/master/3_modeling.ipynb)
+- [Cleaning 📚](https://github.com/MeiChieh/fake-news-detection/blob/main/1_cleaning.ipynb)
+- [EDA 📚](https://github.com/MeiChieh/fake-news-detection/blob/main/2_eda.ipynb)
+- [Modeling 📚](https://github.com/MeiChieh/fake-news-detection/blob/main/3_modeling.ipynb)
 
 ## 🔄 Analysis Structure
 
