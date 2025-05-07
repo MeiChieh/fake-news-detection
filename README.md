@@ -2,33 +2,19 @@
 
 ## 📊 Overview
 
-Misinformation is one of the most pressing global challenges we face today. \
-While incorrect information can be harmless in some contexts, it can have devastating \
-consequences in others.
+Misinformation is one of the most pressing global challenges we face today. While incorrect information can be harmless in some contexts, it can have devastating consequences in others.
 
-In this project, we are provided with approximately 45,000 news articles, each containing \
-a title, text, subject, publication date, and label. The objective is to classify the news \
-as either fake or real using these features.
+In this project, we are provided with approximately 45,000 news articles, each containing a title, text, subject, publication date, and label. The objective is to classify the news as either fake or real using these features.
 
 ## 📚 Dataset
 
 Data: [Download Link](https://drive.google.com/file/d/1CZzfZDvE5E7HaHjk9yeyZDKil4_jkass/view?usp=drive_link)
 
-Since the data is sourced from various news outlets, it contains not only unwanted text, \
-such as injected JavaScript code for website display, but also source-specific patterns, \
-like news articles beginning with "Reuters (City Name)" or those referencing video or image \
-sources. Therefore, data cleaning is a critical step to ensure the text is semantically \
-meaningful and to prevent data leakage from source-specific patterns. Models trained on \
-well-cleaned data are also more likely to generalize effectively to external datasets.
+Since the data is sourced from various news outlets, it contains not only unwanted text, such as injected JavaScript code for website display, but also source-specific patterns, like news articles beginning with "Reuters (City Name)" or those referencing video or image sources. Therefore, data cleaning is a critical step to ensure the text is semantically meaningful and to prevent data leakage from source-specific patterns. Models trained on well-cleaned data are also more likely to generalize effectively to external datasets.
 
-## 🎯 Project Focus
+## 🎯 Project Goal
 
-Our primary focus is on building and comparing different models to predict whether a news \
-article is fake. Some models incorporate heuristic features, such as text length, punctuation \
-counts, and basic sentiment analysis using the Vader sentiment score. Others leverage features \
-derived from text-to-vector methods like TF-IDF Vectorization and Word2Vec embeddings. \
-Additionally, we will explore more advanced Transformer models. We will evaluate and discuss \
-the trade-offs of these approaches and recommend the most suitable model for this project.
+Our primary goal is on building and comparing different models to predict whether a news article is fake. Some models incorporate heuristic features, such as text length, punctuation counts, and basic sentiment analysis using the Vader sentiment score. Others leverage features derived from text-to-vector methods like TF-IDF Vectorization and Word2Vec embeddings. Additionally, we will explore more advanced Transformer models. We will evaluate and discuss the trade-offs of these approaches and recommend the most suitable model for this project.
 
 ## 📑 Analysis Notebooks
 
